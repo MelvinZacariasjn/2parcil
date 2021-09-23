@@ -13,7 +13,7 @@
   <body>
     <h1>FORMULARIO PRODUCTOS</h1>
     <div class="container">
-    <form class="d-flex" action="crud_empleados.php" method="post" >
+    <form class="d-flex" action="crud_productos.php" method="post" >
       <div class="col">
         <div class="mb-3">
           <label for="lbl_id" class="form-label"><b>ID Producto</b></label>
