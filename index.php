@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
   </head>
-  <body><div class="p-3 mb-2 bg-secondary text-white"><h1>Formulario Empleados</h></div>
+  <body><div class="p-3 mb-2 bg-secondary text-white"><h1>Formulario Productos</h></div>
   
 
    
