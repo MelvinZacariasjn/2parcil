@@ -130,8 +130,8 @@
         $("#txt_producto").val(producto);
         $("#txt_existencia").val(existencia);
         $("#txt_descripcion").val(descripcion);
-        $("#txt_precio_costo").val(precio_costo);
-        $("#txt_precio_venta").val(precio_venta);
+        $("#txt_precioc").val(precio_costo);
+        $("#txt_preciov").val(precio_venta);
         
         
                
